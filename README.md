@@ -2,8 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=VAMSI-ISH&icon=9&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-I'm currently working on Task Tracking Web Application based on ASP.Net  <br><br>I'm interested to colloborate on ASP.Net Web Application
-
+I'm currently working in ISH informations private Limited as a Software Engineer.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/an_on_nym_ous) 
