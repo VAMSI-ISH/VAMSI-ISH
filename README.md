@@ -20,7 +20,4 @@ I'm currently working in ISH informations private Limited as a Software Engineer
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VAMSI-ISH&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
